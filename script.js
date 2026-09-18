@@ -1,7 +1,7 @@
 const countdown = document.getElementById("countdown");
 
 // September 1st, 2026 at 12:00 AM
-const launchDate = new Date("September 30, 2026 00:00:00").getTime();
+const launchDate = new Date("October 31, 2026 00:00:00").getTime();
 
 
 function updateCountdown() {
