@@ -1,6 +1,6 @@
 const countdown = document.getElementById("countdown");
 
-// September 1st, 2026 at 12:00 AM
+//October 31st, 2026 at 12:00 AM
 const launchDate = new Date("October 31, 2026 00:00:00").getTime();
 
 
